@@ -7,6 +7,7 @@ while number != 0:
     if last_num == 5:
         print('Обнаружен разрыв')
         break
-    number //= 55
+    number //= 10
+
     print('Текущая сумма цифр:', summ)
     print('\nИтоговая сумма цифр', summ)
