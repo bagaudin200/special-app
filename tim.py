@@ -1,5 +1,5 @@
 number = int(input('Введите число: '))
-
+summ = 0
 
 while number != 0:
     last_num = number % 10
