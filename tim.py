@@ -9,6 +9,6 @@ while number != 0:
         break
     number //= 10
 
-    print('Текущая сумма цафр:', summ)
+    print('Текущие суммы цафр:', summ)
     print('\nИтоговая сумма цифр', summ)
     
