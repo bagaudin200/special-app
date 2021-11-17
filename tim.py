@@ -11,3 +11,7 @@ while number != 0:
 
     print('Текущая сумма цифр:', summ)
     print('\nИтоговая сумма цифр', summ)
+    print('Description')
+    
+   
+
