@@ -9,7 +9,7 @@ while number != 0:
         break
     number //= 10
 
-    print('Текущая сумма цафр:', summ)
+    print('Текущая сумма цифр:', summ)
     print('\nИтоговая сумма цифр', summ)
     print('Description')
 
