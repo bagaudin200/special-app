@@ -11,4 +11,4 @@ while number != 0:
 
     print('Текущая сумма цафр:', summ)
     print('\nИтоговая сумма цифр', summ)
-    
+    print('Привет')
